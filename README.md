@@ -7,4 +7,4 @@ Several deep neural network architechtures were developed: custom-built ones, Re
 
 Final Report is not very complete due to time constraints but it should be enough guidance to understand the code.
 
-Main Tools: Python, Tensorflow
+Main Tools: Python, Tensorflow, Keras
